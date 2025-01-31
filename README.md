@@ -11,6 +11,7 @@ A simple and efficient note-taking application built with **TypeScript**, **Node
 - 📅 Timestamp for each note
 - 🔍 Search and filter functionality
 - 🗄️ MongoDB database for persistent storage
+- 📱 Responsive page design
 
 ## 🛠️ Tech Stack
 
