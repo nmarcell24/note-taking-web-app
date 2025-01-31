@@ -2,7 +2,7 @@
 
 A simple and efficient note-taking application built with **TypeScript**, **Node.js**, **Express**, and **MongoDB**. This app allows users to create, update, delete, and retrieve notes effortlessly.
 
-# Disclamer: The database is running on a private mongoDb database so you won't be able to fetch data from backend. 
+## Disclamer: The database is running on a private mongoDb database so you won't be able to fetch data from backend. 
 
 ## 🚀 Features
 
@@ -27,6 +27,7 @@ A simple and efficient note-taking application built with **TypeScript**, **Node
    cd note-taking-app
    ```
 2. Install dependencies:
+   
    **Backend:** 
    ```bash
    cd backend
@@ -59,9 +60,3 @@ A simple and efficient note-taking application built with **TypeScript**, **Node
 | PUT    | `/notes/:id`   | Update a note            |
 | DELETE | `/notes/:id`   | Delete a note            |
 
-## 🛠️ Development
-
-- Run the server in development mode:
-  ```bash
-  npm run d
-  ```
