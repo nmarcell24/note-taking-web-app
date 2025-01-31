@@ -2,8 +2,6 @@
 
 A simple and efficient note-taking application built with **TypeScript**, **Node.js**, **Express**, and **MongoDB**. This app allows users to create, update, delete, and retrieve notes effortlessly.
 
-## Disclamer: The database is running on a private mongoDb database so you won't be able to fetch data from backend. 
-
 ## 🚀 Features
 
 - ✍️ Create, read, update, and delete (CRUD) notes
