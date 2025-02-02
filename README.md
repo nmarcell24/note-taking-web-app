@@ -1,5 +1,9 @@
 # 📝 Note Taking App
 
+![image of the app](https://github.com/user-attachments/assets/8b54edbf-6b50-40c9-bbd3-8dcb356bb1ae)
+
+
+##
 A simple and efficient note-taking application built with **TypeScript**, **Node.js**, **Express**, and **MongoDB**. This app allows users to create, update, delete, and retrieve notes effortlessly.
 
 ## 🚀 Features
